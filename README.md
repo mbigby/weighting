@@ -1,5 +1,5 @@
 # weighting
-Simple demonstration of weighting samples vi genetic algorithms.
+Simple demonstration of weighting samples via genetic algorithms.
 
 to try from unix or a mac laptop:
 ```
